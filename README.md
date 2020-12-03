@@ -33,7 +33,8 @@ tokenizers==0.5.2
 sentencepiece==0.1.91  
 
 
-You can find more detailed description and source code from https://github.com/mhardalov/exams-qa here.
+
+You can find more detailed description and source code from https://github.com/mhardalov/exams-qa here. This repository contains different multiple-choice question answering datasets and I found Turkish one here.
 Also here is the related paper.
 M. Hardalov, T. Mihaylov, D. Zlatkova, Y. Dinkov, I. Koychev, P. Nakov [*EXAMS: A Multi-subject High School Examinations Dataset for
 Cross-lingual and Multilingual Question Answering*](http://arxiv.org/abs/2011.03080)
